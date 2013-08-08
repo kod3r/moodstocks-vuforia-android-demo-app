@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Moodstocks Vuforia Demo App</string>
+    <string name="home_scan">Scan</string>
+    
+</resources>
