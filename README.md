@@ -1,6 +1,8 @@
 # Moodstocks Vuforia - Android demo app
 
-This demo application illustrates the combined use of Moodstocks SDK and Vuforia SDK to enhance our powerful image recognition with augmented reality.
+This demo application illustrates the combined use of Moodstocks SDK and Vuforia SDK to boost the capabilities of the Vuforia SDK.
+
+If you haven't done it yet, you should probably read [this article](http://www.moodstocks.com/2013/08/08/improving-qualcomms-vuforia-with-the-moodstocks-instant-image-matching/) on the genesis of this project before going on!
 
 ## Features
 
